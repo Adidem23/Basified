@@ -38,9 +38,11 @@ Provides methods to fetch the total number of transactions, internal transaction
 - ### Smart Contract Verification:
  Automates the process of verifying a smart contract's source code on the Sepolia network. It includes checking the verification status based on a unique GUID
 
-Transaction Receipts: Fetches specific transaction receipts by transaction hash, providing detailed information about a given transaction.
+- ### Transaction Receipts:
+  Fetches specific transaction receipts by transaction hash, providing detailed information about a given transaction.
 
-Latest Block Information: Retrieves the most recent mined block on the Sepolia network.
+- ### Latest Block Information:
+Retrieves the most recent mined block on the Sepolia network.
 
 
 # Built With 
