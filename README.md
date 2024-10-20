@@ -30,19 +30,19 @@ The project is a blockchain-based utility tool designed to interact with the Sep
 ## Key Features:
 
 - ### Deployed Contract Tracking :
-Retrieves the number of smart contracts deployed by a specific address and their deployment transaction details.
+  Retrieves the number of smart contracts deployed by a specific address and their deployment transaction details.
 
 - ### Transaction Handling:
-Provides methods to fetch the total number of transactions, internal transactions, and all transactions associated with an address, while also calculating average gas fees used.
+  Provides methods to fetch the total number of transactions, internal transactions, and all transactions associated with an address, while also calculating average gas fees   used.
 
 - ### Smart Contract Verification:
- Automates the process of verifying a smart contract's source code on the Sepolia network. It includes checking the verification status based on a unique GUID
+  Automates the process of verifying a smart contract's source code on the Sepolia network. It includes checking the verification status based on a unique GUID
 
 - ### Transaction Receipts:
   Fetches specific transaction receipts by transaction hash, providing detailed information about a given transaction.
 
 - ### Latest Block Information:
-Retrieves the most recent mined block on the Sepolia network.
+  Retrieves the most recent mined block on the Sepolia network.
 
 
 # Built With 
@@ -50,8 +50,6 @@ Retrieves the most recent mined block on the Sepolia network.
   <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255" height="120px" width="120px"  />
   <h5>Metamask-api</h3>
  </div>
-
-- More Specifically it uses JSON-RPC API of Metamask and use some UTF-8 Conversions for some messages and it uses Javascript . 
 
 ### Prerequisites
 
