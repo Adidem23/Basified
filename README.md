@@ -29,22 +29,6 @@ The project is a blockchain-based utility tool designed to interact with the Sep
 
 ## Key Features:
 
-# 1.switchChain(): 
-This method facilitates seamless switching between Ethereum chains, allowing users to effortlessly navigate different networks supported by MetaMask.
-
-# 2.getPublicEncryptionKey(): 
-Retrieve the encryption key associated with the Ethereum account currently connected via MetaMask.
-
-# 3.connectAccount() : 
-Initiate a request for user accounts, prompting MetaMask to provide account information for transaction authorization.
-
-# 4.signMessage() :
-Enable personal signing capabilities, allowing users to sign messages or transactions using their MetaMask accounts securely.
-
-# 5. getBlockNumber() : 
-Retrieve the latest block number on the Ethereum blockchain.
-
-... and Many More 
 
 # Built With 
  <div>
