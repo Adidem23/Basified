@@ -1,6 +1,6 @@
 <div align="center">
  <img src="https://github.com/user-attachments/assets/8eac61c9-6b07-4ec2-9740-28c9043a6c90" height="120px" width="120px" />
-  <h3 align="center">Basified : Npm Package For Wallet Insigts on Base-Sepholia Chain</h3>
+  <h3 align="center">Basified : Npm Package For Contract and Walllet Based Insigts on Base-Sepholia Chain</h3>
 </div>
 <details>
   <summary>Table of Contents</summary>
