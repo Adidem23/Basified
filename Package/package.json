@@ -1,0 +1,20 @@
+{
+  "name": "basified",
+  "version": "1.0.0",
+  "description": "This is package which is made over Base-Sepholia network for provideing more personalized insights like number of contract deployed , trnasactions made and other functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metamask",
+    "JSON-RPC",
+    "Blokchain"
+  ],
+  "author": "Adidem23",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  }
+}
