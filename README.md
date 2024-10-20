@@ -51,11 +51,6 @@ The project is a blockchain-based utility tool designed to interact with the Sep
   <h3>BaseScan-API</h3>
  </div>
 
- <div>
-  <img src="https://github.com/user-attachments/assets/8e3a6259-37f6-491d-837a-18fe81e4cd0a" height="120px" width="120px"  />
-  <h3>NPM</h3>
- </div>
-
 ### Prerequisites
 
 * npm
