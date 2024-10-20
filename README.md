@@ -24,9 +24,8 @@
 
 ## About The Project
 
- ##  EnchantMask : Metamask Interaction based Npm Package
+ ##  Basified : Npm Package For Wallet Insigts on Base-Sepholia Chain
  
-Enchantmask is an npm package designed to streamline interaction with MetaMask, providing developers with convenient methods to perform essential Ethereum-related tasks. By integrating Enchantmask into your project, you can effortlessly incorporate MetaMask functionality and enhance the user experience of your decentralized applications (DApps).
 
 ## Key Features:
 
