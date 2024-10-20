@@ -24,7 +24,7 @@
 
 ## About The Project
 
- ##  Basified : Npm Package For Wallet Insigts on Base-Sepholia Chain
+ ##  Basified : Npm Package For Contract and Walllet Based Insigts on Base-Sepholia Chain
 The project is a blockchain-based utility tool designed to interact with the Sepolia BaseScan API, focusing on contract and transaction management  and to provide personalized insights for the particular Wallet Address 
 
 ## Key Features:
