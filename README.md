@@ -45,12 +45,16 @@ The project is a blockchain-based utility tool designed to interact with the Sep
   Retrieves the most recent mined block on the Sepolia network.
 
 
-# Built With 
+# Built With : 
  <div>
   <img src="https://github.com/user-attachments/assets/c58c2908-3a18-4484-b6af-51ddbb3d9fef" height="120px" width="120px"  />
   <h3>BaseScan-API</h3>
  </div>
 
+ <div>
+  <img src="https://github.com/user-attachments/assets/8e3a6259-37f6-491d-837a-18fe81e4cd0a" height="120px" width="120px"  />
+  <h3>NPM</h3>
+ </div>
 
 ### Prerequisites
 
@@ -65,13 +69,13 @@ The project is a blockchain-based utility tool designed to interact with the Sep
   ```
 
 ### Installation
-Follow The Installation manual and install dependencies 
+
 1.Install Directly From NPM 
    ```sh
 npm i basified@lastest / npm i basified@lastest --force (IF Any Error Occurs)
    ```
 
-## YT Video Link : 
+### YT Video Link : 
 
 ### Results : 
 
