@@ -29,7 +29,7 @@ The project is a blockchain-based utility tool designed to interact with the Sep
 
 ## Key Features:
 
-- # Deployed Contract Tracking :
+- ### Deployed Contract Tracking :
   Retrieves the number of smart contracts deployed by a specific address and their deployment transaction details.
 
 Transaction Handling: Provides methods to fetch the total number of transactions, internal transactions, and all transactions associated with an address, while also calculating average gas fees used.
