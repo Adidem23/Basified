@@ -51,7 +51,7 @@ The project is a blockchain-based utility tool designed to interact with the Sep
   <h3>BaseScan-API</h3>
  </div>
 
-### Prerequisites
+## Prerequisites
 
 * npm
   ```sh
@@ -63,7 +63,7 @@ The project is a blockchain-based utility tool designed to interact with the Sep
   Download Nodejs Version ^ 18.0.0 LTS 
   ```
 
-### Installation
+## Installation
 
 1.Install Directly From NPM 
    ```sh
