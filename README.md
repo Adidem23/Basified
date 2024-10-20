@@ -35,7 +35,8 @@ Retrieves the number of smart contracts deployed by a specific address and their
 - ### Transaction Handling:
 Provides methods to fetch the total number of transactions, internal transactions, and all transactions associated with an address, while also calculating average gas fees used.
 
-Smart Contract Verification: Automates the process of verifying a smart contract's source code on the Sepolia network. It includes checking the verification status based on a unique GUID.
+- ### Smart Contract Verification:
+ Automates the process of verifying a smart contract's source code on the Sepolia network. It includes checking the verification status based on a unique GUID
 
 Transaction Receipts: Fetches specific transaction receipts by transaction hash, providing detailed information about a given transaction.
 
