@@ -1,6 +1,6 @@
 <div align="center">
  <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/b18d8abd-ec4a-4b38-9936-24c01ede9a00" height="120px" width="120px" />
-  <h3 align="center"> EnchantMask : Metamask Interaction based Npm Package</h3>
+  <h3 align="center">Basified : Npm Package For Wallet Insigts on Base-Sepholia Chain</h3>
 </div>
 <details>
   <summary>Table of Contents</summary>
