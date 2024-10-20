@@ -58,8 +58,7 @@ The project is a blockchain-based utility tool designed to interact with the Sep
   ```sh
   npm install npm@latest -g
   ```
-* You May Require Metamask Wallet and Some Matic or Testnet Tokens Also and Some Cases NVM(NodeJS Version Manager) Also 
-  
+ 
 * NodeJs
   ```sh
   Download Nodejs Version ^ 18.0.0 LTS 
@@ -67,11 +66,13 @@ The project is a blockchain-based utility tool designed to interact with the Sep
 
 ### Installation
 Follow The Installation manual and install dependencies 
-
 1.Install Directly From NPM 
    ```sh
-npm i enchantmask@lastest / npm i enchantmask@lastest --force (IF Any Error Occurs)
+npm i basified@lastest / npm i basified@lastest --force (IF Any Error Occurs)
    ```
 
-# Read Docs At : https://enchant-docs.vercel.app/
+## YT Video Link : 
+
+### Results : 
+
 
