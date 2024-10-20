@@ -1,6 +1,6 @@
 {
   "name": "basified",
-  "version": "1.0.0",
+  "version": "13.20.1",
   "description": "This is package which is made over Base-Sepholia network for provideing more personalized insights like number of contract deployed , trnasactions made and other functionalities",
   "main": "index.js",
   "scripts": {
