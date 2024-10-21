@@ -89,7 +89,20 @@ npm i basified@lastest / npm i basified@lastest --force (IF Any Error Occurs)
 
 - ### Get Particular Transaction :
 <br />
-<img width="960"  src="https://github.com/user-attachments/assets/05366cba-cedc-49b7-8682-a4060c280572" alt="Screenshot 2024-01-02 222928" >
+<img width="960"  src="https://github.com/user-attachments/assets/fcdbd44f-0f8f-49b3-9f58-86d57346c408" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
+
+- ### Gas Fees and Block Mined :
+<br />
+<img width="960"  src="" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
+
+<br />
+<img width="960"  src="" alt="Screenshot 2024-01-02 222928" >
 <br />
 <br />
 <br />
