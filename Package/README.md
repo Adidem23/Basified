@@ -70,7 +70,7 @@ The project is a blockchain-based utility tool designed to interact with the Sep
 npm i basified@lastest / npm i basified@lastest --force (IF Any Error Occurs)
    ```
 
-## YT Video Link : 
+## YT Video Link : https://www.youtube.com/watch?v=LxRjlW0YqTY
 
 ## Results : 
 - ### Fetching Contract Deployements :
