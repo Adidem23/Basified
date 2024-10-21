@@ -74,10 +74,16 @@ npm i basified@lastest / npm i basified@lastest --force (IF Any Error Occurs)
 
 ## Results : 
 - ### Fetching Contract Deployements :
-  <br />
-<img width="960"  src="" alt="Screenshot 2024-01-02 222928" >
+<br />
+<img width="960"  src="https://github.com/user-attachments/assets/523731ee-bdca-4d53-9caf-8566cd11d86c" alt="Screenshot 2024-01-02 222928" >
 <br />
 <br />
 <br />
 
+- ### Transaction Insigts :
+<br />
+<img width="960"  src="" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
 
