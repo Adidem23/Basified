@@ -96,14 +96,13 @@ npm i basified@lastest / npm i basified@lastest --force (IF Any Error Occurs)
 
 - ### Gas Fees and Block Mined :
 <br />
-<img width="960"  src="" alt="Screenshot 2024-01-02 222928" >
+<img width="960"  src="https://github.com/user-attachments/assets/277b079c-189e-40d3-a37e-56448ed6bd7d" alt="Screenshot 2024-01-02 222928" >
 <br />
 <br />
 <br />
 
 <br />
-<img width="960"  src="" alt="Screenshot 2024-01-02 222928" >
+<img width="960"  src="https://github.com/user-attachments/assets/eadcf5c0-1a3b-4f5a-b768-e3bb6df850de" alt="Screenshot 2024-01-02 222928" >
 <br />
 <br />
 <br />
-
