@@ -22,12 +22,12 @@
   </ol>
 </details>
 
-## About The Project
+## About The Project : 
 
  ##  Basified : Npm Package For Contract and Walllet Based Insigts on Base-Sepholia Chain
 The project is a blockchain-based utility tool designed to interact with the Sepolia BaseScan API, focusing on contract and transaction management  and to provide personalized insights for the particular Wallet Address 
 
-## Key Features:
+## Key Features : 
 
 - ### Deployed Contract Tracking :
   Retrieves the number of smart contracts deployed by a specific address and their deployment transaction details.
@@ -45,13 +45,13 @@ The project is a blockchain-based utility tool designed to interact with the Sep
   Retrieves the most recent mined block on the Sepolia network.
 
 
-# Built With : 
+## Built With : 
  <div>
   <img src="https://github.com/user-attachments/assets/c58c2908-3a18-4484-b6af-51ddbb3d9fef" height="120px" width="120px"  />
   <h3>BaseScan-API</h3>
  </div>
 
-## Prerequisites
+## Prerequisites : 
 
 * npm
   ```sh
@@ -63,14 +63,14 @@ The project is a blockchain-based utility tool designed to interact with the Sep
   Download Nodejs Version ^ 18.0.0 LTS 
   ```
 
-## Installation
+## Installation : 
 
 1.Install Directly From NPM 
    ```sh
 npm i basified@lastest / npm i basified@lastest --force (IF Any Error Occurs)
    ```
 
-### YT Video Link : 
+## YT Video Link : 
 
 ## Results : 
 - ### Fetching Contract Deployements :
