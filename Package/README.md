@@ -82,7 +82,14 @@ npm i basified@lastest / npm i basified@lastest --force (IF Any Error Occurs)
 
 - ### Transaction Insigts :
 <br />
-<img width="960"  src="" alt="Screenshot 2024-01-02 222928" >
+<img width="960"  src="https://github.com/user-attachments/assets/05366cba-cedc-49b7-8682-a4060c280572" alt="Screenshot 2024-01-02 222928" >
+<br />
+<br />
+<br />
+
+- ### Get Particular Transaction :
+<br />
+<img width="960"  src="https://github.com/user-attachments/assets/05366cba-cedc-49b7-8682-a4060c280572" alt="Screenshot 2024-01-02 222928" >
 <br />
 <br />
 <br />
