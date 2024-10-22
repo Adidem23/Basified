@@ -1,7 +1,7 @@
 const {getNumberOfDeployedContractsByAddress,getContractDeploymentTransactions,getNumberofTransactionByAddress,getNumberOfInternalTransactions,getAllTransactionsByAddress,getParticularTransactionReceipt,calcuateAverageUsedGasFees,getLastestMinedBlock}=require('basified');
 
 const Address="0xCd60F24071Dc0d145E366aF0128E0c2a4689cd46";
-const Hash="0xe90e841c136617b095341c801163615023f459a64c6b8b2661bd306df6e86a66";
+const Hash="0xf0082a71cdf6853039e888747be159ee9e90d704dfa9247ffd0b3ed92e17cfae";
 
 async function ContractFunctions() {
 
