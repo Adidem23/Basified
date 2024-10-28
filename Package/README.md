@@ -71,6 +71,7 @@ npm i basified@lastest / npm i basified@lastest --force (IF Any Error Occurs)
    ```
 
 ## YT Video Link : https://www.youtube.com/watch?v=LxRjlW0YqTY
+## PPT Link : https://www.canva.com/design/DAGU3vdkPYg/yb-e4Y9YUbm85UmukJwTkQ/edit?utm_content=DAGU3vdkPYg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Results : 
 - ### Fetching Contract Deployements :
